@@ -2,6 +2,11 @@
 
 This repository contains a Python notebook that demonstrates how to visualize the filters of a Convolutional Neural Network (CNN). The notebook provides an overview of the concept of filters in CNNs and explains how to visualize them using the VGG16 model and TensorFlow.
 
+![block3_conv1, 159](block3_conv1,159.png "block3_conv1, 159") |  ![block2_conv2, 77](block2_conv2,77.png "block2_conv2, 77")
+:-------------------------:|:-------------------------:
+![block4_conv1, 243](block4_conv1,243.png "block4_conv1, 243") |  ![block3_conv3, 41](block3_conv3,41.png "block3_conv3, 41")
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Convolutional Neural Networks](#convolutional-neural-networks)
